@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> </title>
+<script src="https://kit.fontawesome.com/5b36c17d86.js" crossorigin="anonymous"></script>
+<style>
+body
+{
+	background-color:#ffffff;
+}
+div
+{
+	font-family:"serif","helvetica","arial";
+    text-align:center;
+}
+header
+{
+	text-transform:uppercase;
+	font-color:#ffffff;
+	background-color:#008080;
+}
+.first
+{
+text-align:left;
+display:block;
+}
+.second
+{
+text-align:center;
+display:block;
+}
+h2
+{
+text-align:center;
+padding-top:30px;
+display:inline block;
+}
+a
+{
+  opacity:.5;
+  font-color:#000000;
+}
+a:active
+{
+  font-color:#000000;
+  opacity=1;
+}
+a:hover
+{
+  opacity:.8;
+  font-color:#000000;
+}
+footer
+{
+  border=10px solid	#008080;
+  padding:10px;
+  text-align:right;
+  margin:500px 10px 10px 500px;
+  float:right;
+}
+</style>
+</head> 
+<body>
+<header> 
+<p><h1 class="first">COSMOS<h1> <h1 class="second"> Library Management System </h1> <p>
+</header>                            
+<div>
+     <h2> <i class="fas fa-smile fa-2x"></i>  Thank You for the visit!</h2>
+	 <footer> 
+	 <a href="http://www.gmail.com" aria-label="Gmail"><i class="fas fa-envelope fa-2x"></i></a>  Email us your further queries.
+	 </footer>
+</div>
+</body>
+</html>
